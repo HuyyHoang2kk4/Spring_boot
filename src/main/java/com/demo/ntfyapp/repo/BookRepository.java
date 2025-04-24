@@ -1,3 +1,9 @@
+/**
+ Repository trong Spring Boot là một lớp hoặc interface dùng để truy cập và quản lý dữ liệu từ cơ sở dữ liệu
+ giúp tương tác    với CSDL ( nó có các lệnh sẵn) xử lý các thao tác cơ bản như lưu, tìm kiếm, xóa hoặc cập nhật dữ liệu từ cơ sở dữ liệu.
+ Quản lý Entity: Repository làm việc trực tiếp với các lớp entity để ánh xạ với các bảng trong cơ sở dữ liệu.
+ */
+
 package com.demo.ntfyapp.repo;
 
 import java.util.List;

@@ -1,3 +1,16 @@
+/**
+ *Controller là 1 phần quan trọng trong mô hình MVC được sử dụng để xử lý các yeu cầu HTTP và trả về các phản hồi tương ứng 
+  controller giúp quản lý luồng dữ liệu từ người dùng và hệ thống , nhận và xử lý các yêu cầu từ người dùng và đồng thời trả về kết quả
+
+  controller được đánh dấu bằng chú thích @RestController hoặc @Controller
+
+  @RestController: Được sử dụng khi bạn xây dựng một ứng dụng RESTful, nơi các phản hồi thường ở dạng JSON hoặc XML thay vì trang web.
+
+  @Controller: Thường dùng trong các ứng dụng web truyền thống, nơi kết quả trả về có thể là một trang HTML.
+ * 
+ */
+
+
 package com.demo.ntfyapp.controller;
 
 import java.util.List;

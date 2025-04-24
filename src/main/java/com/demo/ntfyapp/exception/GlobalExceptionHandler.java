@@ -1,3 +1,10 @@
+/**
+ * Exception : khi chạy chương trình nếu xảy ra 1 lỗi có thể không quản lý được =
+ * > Xử lý ngoại lệ giúp ứng dụng tiếp tục hoạt động bình thường bằng cách cung cấp thông tin về lỗi hoặc chuyển hướng đến một xử lý khác
+
+ * 
+ */
+
 package com.demo.ntfyapp.exception;
 
 import java.time.LocalDateTime;

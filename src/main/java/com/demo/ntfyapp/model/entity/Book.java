@@ -1,3 +1,10 @@
+/**
+ * Được đánh dấu banfgwf @Entity
+ * dùng lưu trữ và truy xuất dữ liệu từ cơ sở dữ liệu.
+ * Mỗi Entity tương ứng với một bảng trong cơ sở dữ liệu
+ *  Các thuộc tính của Entity tương ứng với các cột trong bảng.
+ */
+
 package com.demo.ntfyapp.model.entity;
 
 import java.time.LocalDateTime;

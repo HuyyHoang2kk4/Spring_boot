@@ -1,3 +1,10 @@
+/**
+ Service được đánh dấu bằng anotation @Service 
+ Nó chứa các phương thức liên quan đến xử lý dữ liệu ( tính toán , tưởng tác với csdl ...)
+
+
+ */
+
 package com.demo.ntfyapp.service;
 
 import java.time.ZonedDateTime;

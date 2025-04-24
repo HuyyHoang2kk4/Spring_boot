@@ -1,3 +1,7 @@
+/**
+ * DTO là một đối tượng đơn giản chứa các dữ liệu cần thiết để trao đổi giữa các lớp, thường dùng để gửi dữ liệu từ server đến client
+ */
+
 package com.demo.ntfyapp.model.dto;
 
 import java.time.ZonedDateTime;
